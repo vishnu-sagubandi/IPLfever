@@ -12,6 +12,9 @@ body{
   min-width: 100vh;
   background: url('assets/3khMZT.jpg');
   background-attachment: fixed;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .container{
   position: relative;
@@ -77,6 +80,7 @@ body{
 }
 .card-stats {
   grid-area: stats;
+  display: -ms-grid;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;
