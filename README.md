@@ -1,5 +1,5 @@
 # IPLfever
-This site will show the csk players statastics.
+This site will show the csk players statastics in the form of profile cards with a small description about the player and their match statstics.
 </br>Still there is a lot improve in this.
 </br>General preview of profile cards be:
 </br>
