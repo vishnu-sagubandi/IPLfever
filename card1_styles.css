@@ -19,6 +19,7 @@ body{
 .container{
   position: relative;
   width: 1150px;
+  min-width:250px;
   padding: 20px;
   display: flex;
   justify-content: center;
@@ -38,6 +39,7 @@ body{
   position: relative;
   width: 270px;
   margin: 20px;
+  min-width:250px;
   border-radius: 20px;
   overflow: hidden;
   box-shadow: 0 15px 25px rgba(0,0,0,0.2);
